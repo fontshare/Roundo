@@ -1,0 +1,10 @@
+name:Roundo
+weight:700
+win_a:920
+win_d:220
+typo_a:920
+typo_d:-220
+hhea_a:920
+hhea_d:-220
+hhea_l:90
+typo_l:90
